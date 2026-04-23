@@ -1,1 +1,3 @@
 Resource sync file test thingy >~<
+
+hi
