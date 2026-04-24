@@ -1845,4 +1845,11 @@
 <Size>4385</Size>
 <StorageClass>STANDARD</StorageClass>
 </Contents>
+<Contents>
+<Key>test.txt</Key>
+<LastModified>2026-04-23T12:00:00.000Z</LastModified>
+<Size></Size>
+<ETag>4b6fcb2d521ef0fd442a5301e7932d16cc9f375a</Etag>
+<StorageClass>STANDARD</StorageClass>
+</Contents>
 </ListBucketResult>
